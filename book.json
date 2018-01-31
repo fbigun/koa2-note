@@ -1,6 +1,6 @@
 {
     "title": "Koa2 进阶学习笔记",
-    "author": "chenshenhai"
-    "language": "zh-hans"
+    "author": "chenshenhai",
+    "language": "zh-hans",
     "gitbook": ">=3.2.3"
 }
